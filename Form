@@ -1,0 +1,17 @@
+<div class="row padding">
+	<img src="../Version 3/img/Electrical world map_Locations_72.png" class="img-fluid">
+	<div style="position: relative; background: url(img/Electrical world map_Locations.png)">
+		</div>
+	<div style="position: absolute; bottom: auto; right: 2em; width: 400px">
+		<form
+			  action="https://formspree.io/f/mwkaejaj"
+			  method="POST"
+			  >
+			<h2 class="text-center">Contact</h2>
+			<input name="name" type="text" class="feedback-input" placeholder="Name" />   
+  			<input name="_replyto" type="text" class="feedback-input" placeholder="Email" />
+  			<textarea name="message" class="feedback-input" placeholder="Message"></textarea>
+			<button type="send">SEND</button>
+		</form>
+	</div>
+</div>
